@@ -16,3 +16,8 @@ This is the introduction page of the Bank Performance Analysis dashboard. It has
 
 # Product-&-Account-Analytics
 <img width="1424" height="801" alt="Product   Account Analyticis Page" src="https://github.com/user-attachments/assets/d869ee6a-21c1-419c-a611-81b7dc17bc48" />
+
+
+# References
+
+I have taken the data from https://github.com/Adesh1214/Banking-And-Finance-Analysis-PowerBI, and created 2 column in power bi to clean up the occupations by removing the roman numerals, as well as a column to showcase the total products of each customer.
