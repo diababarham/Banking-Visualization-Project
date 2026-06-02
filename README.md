@@ -15,7 +15,7 @@ This is the introduction page of the Bank Performance Analysis dashboard. It has
 <img width="1426" height="802" alt="Lending And Risk Analysis page" src="https://github.com/user-attachments/assets/0561fc12-f18c-4597-8d6b-4d6636fc456f" />
 
 # Product-&-Account-Analytics
-<img width="1424" height="801" alt="Product   Account Analytics Page (2)" src="https://github.com/user-attachments/assets/2848d23c-8e1c-42f4-8f93-e39b213aa6cc" />
+<img width="1426" height="802" alt="Product   Account Analytics Page" src="https://github.com/user-attachments/assets/aa78f9f6-f5f2-4f6c-ae03-e0868f7ecf31" />
 
 # References
 
